@@ -9,3 +9,5 @@ def valid?(password)
         return false # returns false if the password is not valid.
     end
 end
+
+# This is just to make the two code file different so can be peer reviewed. (Ignore will delete later.)
